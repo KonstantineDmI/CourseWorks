@@ -1,0 +1,17 @@
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\bin\Release\Database1.mdf
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\bin\Release\Database1_log.ldf
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\bin\Release\Form1.resx
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\bin\Release\Form1.cs
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\bin\Release\Form1.Designer.cs
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\bin\Release\Kursovaya.exe.config
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\bin\Release\Kursovaya.exe
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\bin\Release\Kursovaya.pdb
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\obj\Release\Kursovaya.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\obj\Release\Kursovaya.Form1.resources
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\obj\Release\Kursovaya.Form2.resources
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\obj\Release\Kursovaya.Form3.resources
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\obj\Release\Kursovaya.reg.resources
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\obj\Release\Kursovaya.Properties.Resources.resources
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\obj\Release\Kursovaya.csproj.GenerateResource.cache
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\obj\Release\Kursovaya.exe
+C:\Users\konst\source\repos\Kursovaya\Kursovaya\obj\Release\Kursovaya.pdb
