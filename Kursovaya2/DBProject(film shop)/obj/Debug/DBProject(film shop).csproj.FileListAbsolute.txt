@@ -1,0 +1,12 @@
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\bin\Debug\Database.mdf
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\bin\Debug\Database_log.ldf
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\bin\Debug\DBProject(film shop).exe.config
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\bin\Debug\DBProject(film shop).exe
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\bin\Debug\DBProject(film shop).pdb
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\obj\Debug\DBProject(film shop).csprojAssemblyReference.cache
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\obj\Debug\DBProject_film_shop_.Form1.resources
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\obj\Debug\DBProject_film_shop_.Properties.Resources.resources
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\obj\Debug\DBProject_film_shop_.TheDatabaseForm.resources
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\obj\Debug\DBProject(film shop).csproj.GenerateResource.cache
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\obj\Debug\DBProject(film shop).exe
+C:\Users\konst\source\repos\DBProject(film shop)\DBProject(film shop)\obj\Debug\DBProject(film shop).pdb
